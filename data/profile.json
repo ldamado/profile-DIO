@@ -1,0 +1,73 @@
+{
+  "name": "Lucas Diniz Amado",
+  "photo": "https://avatars.githubusercontent.com/u/130322564?v=4",
+  "job": "Tradutor/Estudante de programação",
+  "location": "Minha Cidade",
+  "phone": "(00) 9999-9999",
+  "email": "ex@email.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Tradução",
+        "logo": ""
+      },
+      {
+        "name": "Legendagem",
+        "logo": ""
+      },
+      {
+        "name": "Revisão",
+        "logo": ""
+      },
+      {
+        "name": "JavaScript básico",
+        "logo": ""
+      },
+      {
+        "name": "HTML básico",
+        "logo": ""
+      },
+      {
+        "name": "CSS básico",
+        "logo": ""
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português-BR (Fluente)",
+    "Inglês (Fluente)",
+    "Francês (Intermediário)",
+    "Italiano (Intermediário)",
+    "Japonês (Básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "7DaysOfCode",
+      "url": "https://github.com/ldamado/-7DaysOfCode-Teste",
+      "github": true
+    },
+    {
+      "name": "E-book",
+      "url": "https://a.co/d/aVVS5OP",
+      "github": false
+    },
+    {"name": "Bootcamp",
+    "url": "https://www.dio.me/certificate/EE2112AB/share",
+    "github": false
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Tradutor",
+      "duration": "08/2021 - 07/2022",
+      "description": "Tradutor na BYJU'S Learning Brasil"
+    }
+  ]
+}
