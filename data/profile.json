@@ -2,34 +2,34 @@
   "name": "Lucas Diniz Amado",
   "photo": "https://avatars.githubusercontent.com/u/130322564?v=4",
   "job": "Tradutor/Estudante de programação",
-  "location": "Minha Cidade",
-  "phone": "(00) 9999-9999",
-  "email": "ex@email.com",
+  //"location": "Minha Cidade",
+  //"phone": "(00) 9999-9999",
+  //"email": "ex@email.com",
   "skills": {
     "hardSkills": [
       {
         "name": "Tradução",
-        "logo": ""
+        //"logo": ""
       },
       {
         "name": "Legendagem",
-        "logo": ""
+        //"logo": ""
       },
       {
         "name": "Revisão",
-        "logo": ""
+        //"logo": ""
       },
       {
         "name": "JavaScript básico",
-        "logo": ""
+       //"logo": ""
       },
       {
         "name": "HTML básico",
-        "logo": ""
+       //"logo": ""
       },
       {
         "name": "CSS básico",
-        "logo": ""
+        //"logo": ""
       }
     ],
     "softSkills": [
