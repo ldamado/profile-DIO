@@ -22,9 +22,7 @@
     list-style: none;
 }
 
-.tools li img {
-    max-width: 50px;
-    max-height: 50px;
+.tools li {
     margin: 0 .5rem;
 }
 
